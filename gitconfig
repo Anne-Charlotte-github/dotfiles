@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = annecharlotte.morizot@gmail.com
+	name = Anne-Charlotte Morizot
